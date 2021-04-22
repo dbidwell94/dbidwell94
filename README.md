@@ -4,7 +4,6 @@
 
 I am a full stack web developer who is passionate about writing code, and building software.
 
-- 🔭 I’m currently a Web Developer intern at Intuitus Cyber.
-- 📚 I’m currently learning Kubernetes and micro-services using Docker.
-- 👯 I'm looking for a full time web development position. 
+- 🔭 I’m currently a Web Developer intern at Accretive Technology Group.
+- 🖥️ I'm constantly learning new technologies and frameworks to apply to personal projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/devin-bidwell/) [Gmail](mailto:dbidwell94@gmail.com) [Portfolio](https://biddydev.com)
